@@ -1,0 +1,46 @@
+/* Fond du corp de la page */
+body{
+  background-color: rgb(195, 193, 190);
+}
+
+/* Pour mettre la numérotation en bas de la pase */
+.pages{
+  position: fixed;
+  left: 50%;
+  bottom: 3%;
+  transform: translate(-50%, -50%); 
+  margin: 0 auto;
+}
+
+/* Les numéros sont bleus */
+a{
+  text-decoration: none; 
+  color: blue;
+}
+
+/* Lorsqu'on passe le curseur sur le numéro, il se souligne (modèle de google) */
+a:hover {
+  text-decoration: underline;
+}
+
+/* Le numéro de la page est blanc lorsqu'on s'y situe */
+.page-link.active {
+  color: white;
+  text-decoration: none; 
+}
+
+/* Pour gérer l'affichage des éléments de la table */
+
+table { 
+  border-collapse: collapse; 
+}
+
+tr{
+  border-bottom: 1pt solid black;
+}
+
+td, th {
+  text-align: center;
+  padding: 6px;
+  font-size:larger;
+}
