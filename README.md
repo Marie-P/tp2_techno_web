@@ -1,4 +1,4 @@
-# Sujet : Pagination
+# Sujet : Téléversement de fichier vers un dossier
 ## Consigne
 La consigne pour ce projet est de mettre en place, avec un formulaire basique, pour conserver des images et les réutiliser à travers une base de données. Ensuite, l'idée est de les afficher en réemployant le concept de pagination du premier tp : https://github.com/Marie-P/tp1_techno_web
 
