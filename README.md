@@ -23,7 +23,7 @@ J'ai utilisé comme système de gestion de base de données mysql.
    * Serveur : 111.11.0.1:3306
    * Utilisateur : root
    * Mot de passe : my-secret-pw
-   * Créer une nouvelle base de données "imagesData"
+   * Créer une nouvelle base de données "imageData"
 <img src="utils/pourReadMe/creation.png" />
 
 
